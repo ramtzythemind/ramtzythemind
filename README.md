@@ -10,10 +10,10 @@
 <table>
   <tr>
     <td width="50%"><img src="assets/ll01.png" alt="LL-01 Laser Link"/><br/><b>LL-01</b> — laser link with automatic pointing & tracking</td>
-    <td width="50%"><img src="assets/flicker.png" alt="Flicker"/><br/><b>Flicker</b> — anomaly search in TESS light curves (DOI)</td>
+    <td width="50%"><img src="flicker.png" alt="Flicker"/><br/><b>Flicker</b> — anomaly search in TESS light curves (DOI)</td>
   </tr>
   <tr>
-    <td width="50%"><img src="assets/openagent.png" alt="OpenAgent"/><br/><b>OpenAgent</b> — local AI agent for macOS</td>
+    <td width="50%"><img src="openagent.png" alt="OpenAgent"/><br/><b>OpenAgent</b> — local AI agent for macOS</td>
   </tr>
 </table>
 
