@@ -3,8 +3,8 @@
 
 <p>
   <a href="https://vdxtechnologies.com">Website</a> ·
-  <a href="https://linkedin.com/in/TUO-PROFILO">LinkedIn</a> ·
-  <a href="https://x.com/TUO-PROFILO">X</a>
+  <a href="https://www.linkedin.com/company/vdxtech/">LinkedIn</a> ·
+  <a href="https://x.com/vdxtechnologies">X</a>
 </p>
 
 <table>
